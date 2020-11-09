@@ -1,3 +1,4 @@
+# NO LONGER WORKING
 # VSCode-Binary-Installer (For UofT Teaching Lab Machine)
 This script can download the binary version of the VSCode and create a launcher on the desktop. I have hosted the script file on my subdomain.
 
